@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Banked"
+rootProject.name = "In Passive Bot"
 
 include(":app")
