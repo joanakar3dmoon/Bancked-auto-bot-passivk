@@ -101,7 +101,7 @@ fun BankedApp(viewModel: BankedViewModel) {
                             modifier = Modifier.size(24.dp)
                         )
                         Text(
-                            text = "BANKED",
+                            text = "IN PASSIVE BOT",
                             style = MaterialTheme.typography.titleLarge.copy(
                                 fontWeight = FontWeight.Black,
                                 color = TextPrimary,
