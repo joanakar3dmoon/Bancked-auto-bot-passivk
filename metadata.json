@@ -1,0 +1,6 @@
+{
+  "name": "Banked: Auto Invest & Passive Income",
+  "description": "Automated investment platform featuring 3 AI Market Analyzer Bots, 3 Yield Worker Bots, AdMob monetization simulator, and Payment Gateways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
